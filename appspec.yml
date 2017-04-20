@@ -7,7 +7,7 @@ permissions:
    - object: /var/www/html
      pattern: "**"
      owner: apache
-     group: apach
+     group: apache
      mode: 755
      type:
        - file
